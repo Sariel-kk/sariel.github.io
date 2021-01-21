@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog.
+#
+
+title: Edit _config.yml to set your title!
+description: This is where the descreiption of your site will go. You should change it by editing the _config of your file.
+github_username: sarielkk
